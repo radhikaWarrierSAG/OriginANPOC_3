@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">addTwoNos</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWludGVnZXIxID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVD
+dXJzb3IsICJpbnRlZ2VyMSIgKTsNCglTdHJpbmcJaW50ZWdlcjIgPSBJRGF0YVV0aWwuZ2V0U3Ry
+aW5nKCBwaXBlbGluZUN1cnNvciwgImludGVnZXIyIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJv
+eSgpOw0KDQpJbnRlZ2VyIGk9MDsgSW50ZWdlciBqPTA7DQppPUludGVnZXIucGFyc2VJbnQoaW50
+ZWdlcjEpOw0Kaj1JbnRlZ2VyLnBhcnNlSW50KGludGVnZXIyKTsNCmludCBvdXQgPSBpK2o7DQoN
+Cg0KDQpTdHJpbmcgT3V0cHV0U3RyaW5nID0gIiIrb3V0Ow0KDQovLyBwaXBlbGluZQ0KSURhdGFD
+dXJzb3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGls
+LnB1dCggcGlwZWxpbmVDdXJzb3JfMSwgIk91dHB1dFN0cmluZyIsIE91dHB1dFN0cmluZyApOw0K
+cGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7DQoNCgk=</value>
+</Values>
